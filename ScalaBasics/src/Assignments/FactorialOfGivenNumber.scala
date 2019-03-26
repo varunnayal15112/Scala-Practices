@@ -1,6 +1,4 @@
-/*
-Problem Statement => Write a tail recursive function to find factorial of given number
- */
+package Assignments
 
 object FactorialOfGivenNumber {
 

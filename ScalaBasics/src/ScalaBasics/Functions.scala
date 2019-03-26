@@ -1,3 +1,5 @@
+package ScalaBasics
+
 object Functions {
   /*
   Syntax :

@@ -1,3 +1,5 @@
+package ScalaBasics
+
 object StringInterpolation {
   def main(args: Array[String]) {
     println("Hello, World !")

@@ -1,3 +1,5 @@
+package ScalaBasics
+
 object ForLoop {
   def main(args : Array[String]): Unit = {
     // Implementation of For Loop in Scala

@@ -1,6 +1,4 @@
-/*
-Problem Statement => Write a function product similar to summation which will return product of numbers between a to b
- */
+package Assignments
 
 object ProductOfNumbersInTheRange {
   def MathsOperation(x : Int, y : Int, definedFunction:(Int, Int)=> Int) : Int = definedFunction(x,y)

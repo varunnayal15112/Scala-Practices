@@ -1,3 +1,5 @@
+package ScalaBasics
+
 object IfElse {
   def main(args: Array[String]): Unit = {
     /*

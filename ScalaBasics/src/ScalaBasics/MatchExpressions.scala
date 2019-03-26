@@ -1,3 +1,5 @@
+package ScalaBasics
+
 object MatchExpressions {
   def main(args: Array[String]): Unit = {
     /*

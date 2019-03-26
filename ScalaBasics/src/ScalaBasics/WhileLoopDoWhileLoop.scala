@@ -1,3 +1,5 @@
+package ScalaBasics
+
 object WhileLoopDoWhileLoop {
   def main(args : Array[String]): Unit = {
     // Implementation of While and Do-While Loop in Scala
